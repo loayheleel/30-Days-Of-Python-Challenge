@@ -1,4 +1,4 @@
-# Day 3: 30 Days of python programming
+# Day 4: 30 Days of python programming
 # Questions 1
 first_word  = 'Thirty'
 second_word = 'Days'
@@ -73,4 +73,5 @@ print('{} * {} = {}'.format(x,y,x*y))
 print('{} / {} = {:.2f}'.format(x,y,x/y))
 print('{} % {} = {}'.format(x,y,x%y))
 print('{} // {} = {}'.format(x,y,x//y))
+
 print('{} ** {} = {}'.format(x,y,x**y))
