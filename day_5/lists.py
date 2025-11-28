@@ -1,4 +1,4 @@
-# Day 3: 30 Days of python programming
+# Day 5: 30 Days of python programming
 # Exercise: Level 1
 # Questions 1 ---> 25
 list_1        = []
@@ -284,4 +284,5 @@ first_country,second_country,third_country,*scandic = countries_other
 print('The first country in the list is',first_country)
 print('The second country in the list is',second_country)
 print('The third country in the list is',third_country)
+
 print('The rest of the countries (scandic) in the list is',scandic)
