@@ -1,12 +1,12 @@
 # Day 4: 30 Days of python programming
-# Questions 1
+# Question 1
 first_word  = 'Thirty'
 second_word = 'Days'
 third_word  = 'Of'
 forth_word  = 'Python'
 sentence= first_word + ' ' + second_word + ' ' +third_word + ' ' +forth_word+ ' '
 print(sentence)
-# Questions 2
+# Question 2
 first_word_2  = 'Coding'
 second_word_2 = 'For'
 third_word_2  = 'All'
@@ -75,3 +75,4 @@ print('{} % {} = {}'.format(x,y,x%y))
 print('{} // {} = {}'.format(x,y,x//y))
 
 print('{} ** {} = {}'.format(x,y,x**y))
+
