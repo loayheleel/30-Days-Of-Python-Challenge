@@ -1,4 +1,4 @@
-# Day 8: 30 Days of python programming
+# Day 9: 30 Days of python programming
 # Exercises : Level 1
 # Question 1 
 age=int(input('Please enter your age \n'))
@@ -101,5 +101,6 @@ if person['is_married']==True and person['country']=='Finland':
    text_4='is'
    print(person['first_name'],person['last_name'],'lives in', person['country'],'.', 'He',text_4 ,'married.')
        
+
 
 
